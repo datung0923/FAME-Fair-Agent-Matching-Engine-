@@ -1,8 +1,5 @@
 [README.pdf](https://github.com/user-attachments/files/19393545/README.pdf)
 
-Author:
-Zhang Zizhong, Yao William, Wu Chia-Tung, Chen Ping
-
 ---
 
 ## **FAME (Fair Agent Matching Engine) – Project Summary**
@@ -75,4 +72,8 @@ Includes two main components:
 - **Economic Matching Score**: Balances assignment of advisors across income levels to avoid concentration of top advisors among high-income clients
 
 These components help evaluate the ethical soundness of advisor-client pairings and improve model transparency and equity.
+
+---
+Co-Author:
+Zhang Zizhong, Yao William, Wu Chia-Tung, Chen Ping
 
